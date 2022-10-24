@@ -1,2 +1,3 @@
 Heyo I'm learning the basics of git
 I am so cool
+I'm gonna try to do the fancy commit message
